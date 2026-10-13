@@ -1,8 +1,16 @@
 # COP2800 Java Programming
 
-My car-build calculator for this class.
+A console application for planning a car build and estimating performance.
 
-Run it with a JDK:
+- Add parts and prices, list parts, and calculate total cost.
+- Estimate horsepower, quarter-mile time, and power-to-weight ratio.
+- Save a parts and cost summary to `build_summary.txt`.
+
+Source: [CarPerformanceProject.java](final-project/CarPerformanceProject.java).
+
+## Compile and run
+
+Requires a JDK. From the repository root:
 
 ```sh
 cd final-project
