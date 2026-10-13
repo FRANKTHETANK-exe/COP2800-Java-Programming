@@ -1,8 +1,8 @@
 # COP2800 Java Programming
 
-My Java coursework and car-build calculator.
+My car-build calculator for this class.
 
-Run the final project with a JDK:
+Run it with a JDK:
 
 ```sh
 cd final-project
